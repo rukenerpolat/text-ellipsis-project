@@ -4,7 +4,7 @@
 
 This small web application shortens the user's input text by truncating it after 150 characters and appending `...` (three dots). As the user types into the input field, the shortened version is dynamically displayed below. Such ellipses are commonly used in user interfaces to summarize long text content.
 
-### 🌐 [View Live Page]()
+### 🌐 [View Live Page](https://text-ellipsis-project.netlify.app/)
 
 ## 🚀 Features
 
@@ -37,7 +37,7 @@ To use or customize this project locally:
 
 1. Clone the repository
    ```
-   git clone https://github.com/kullanici-adiniz/text-ellipsis.git
+   git clone https://github.com/rukenerpolat/text-ellipsis.git
    ```
 2. Navigate to the project folder
    ```
